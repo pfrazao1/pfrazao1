@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**pfrazao1/pfrazao1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no Senac, atualmente desenvolvendo minhas habilidades em programação.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudando Java e Programação Orientada a Objetos.
+- Desenvolvendo projetos práticos para aplicar meus conhecimentos.
+- Buscando uma oportunidade de estágio na área de desenvolvimento de software.
+
+## Tecnologias e conhecimentos
+
+- Java
+- Programação Orientada a Objetos (POO)
+- Classes, objetos e métodos
+- Estruturas condicionais e de repetição
+- Listas com `ArrayList`
+
+## Projeto em destaque
+
+**Sistema Bancário em Java**
+
+Projeto de estudo com cadastro de clientes, criação de contas, depósitos, saques, transferências e consulta de extrato.
+
+Confira o código: [Sistema Bancário em Java](https://github.com/pfrazao1/sistema-bancario-java)
+
+---
+
+Estou em constante aprendizado e buscando evoluir na área de desenvolvimento de software.
