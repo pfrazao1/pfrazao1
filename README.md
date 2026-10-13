@@ -1,8 +1,8 @@
-# Olá! 👋
+# Olá! 
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas no Senac Portão**, atualmente no segundo período, desenvolvendo meus conhecimentos em programação e desenvolvimento de software.
 
-## 🎓 Formação acadêmica
+## Formação acadêmica
 
 **Análise e Desenvolvimento de Sistemas — Senac Portão**
 
@@ -24,7 +24,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas no Senac Portão**, at
 - Programação Orientada a Objetos (Java)
 - Linguagem e Projeto de Banco de Dados (SQL)
 
-## 💻 Conhecimentos em desenvolvimento
+## Conhecimentos em desenvolvimento
 
 - **Java:** classes, objetos, métodos, encapsulamento e estruturas de controle.
 - **C++:** fundamentos de algoritmos e lógica de programação.
@@ -33,7 +33,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas no Senac Portão**, at
 
 Estou aprofundando meus conhecimentos por meio das atividades acadêmicas e de projetos práticos.
 
-## 🚀 Projeto em destaque
+## Projeto em destaque
 
 ### Sistema Bancário em Java
 
@@ -47,7 +47,7 @@ Projeto acadêmico desenvolvido para praticar Programação Orientada a Objetos,
 
 🔗 [Sistema Bancário em Java](https://github.com/pfrazao1/sistema-bancario-java)
 
-## 🎯 Objetivo profissional
+## Objetivo profissional
 
 Busco uma oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos, aprender com profissionais da área e evoluir como desenvolvedor.
 
