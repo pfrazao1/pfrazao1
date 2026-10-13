@@ -1,29 +1,56 @@
 # Olá! 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no Senac, atualmente desenvolvendo minhas habilidades em programação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas no Senac Portão**, atualmente no segundo período, desenvolvendo meus conhecimentos em programação e desenvolvimento de software.
 
-## Sobre mim
+## 🎓 Formação acadêmica
 
-- Estudando Java e Programação Orientada a Objetos.
-- Desenvolvendo projetos práticos para aplicar meus conhecimentos.
-- Buscando uma oportunidade de estágio na área de desenvolvimento de software.
+**Análise e Desenvolvimento de Sistemas — Senac Portão**
 
-## Tecnologias e conhecimentos
+### Disciplinas cursadas no primeiro período
+- Lógica Computacional
+- Fundamentos da Computação
+- Design de Interação
+- Desenvolvimento No/Low-Code
+- Fundamentos de Banco de Dados (SQL)
+- Redes de Computadores
+- Projeto Integrador I
+- Algoritmos utilizando C++
 
-- Java
-- Programação Orientada a Objetos (POO)
-- Classes, objetos e métodos
-- Estruturas condicionais e de repetição
-- Listas com `ArrayList`
+### Disciplinas do segundo período
+- Comunicação e Escrita Científica
+- Projeto Integrador II
+- Programação Front-End (HTML e JavaScript)
+- Projeto de Software
+- Programação Orientada a Objetos (Java)
+- Linguagem e Projeto de Banco de Dados (SQL)
 
-## Projeto em destaque
+## 💻 Conhecimentos em desenvolvimento
 
-**Sistema Bancário em Java**
+- **Java:** classes, objetos, métodos, encapsulamento e estruturas de controle.
+- **C++:** fundamentos de algoritmos e lógica de programação.
+- **SQL:** fundamentos de banco de dados.
+- **HTML e JavaScript:** introdução ao desenvolvimento Front-End.
 
-Projeto de estudo com cadastro de clientes, criação de contas, depósitos, saques, transferências e consulta de extrato.
+Estou aprofundando meus conhecimentos por meio das atividades acadêmicas e de projetos práticos.
 
-Confira o código: [Sistema Bancário em Java](https://github.com/pfrazao1/sistema-bancario-java)
+## 🚀 Projeto em destaque
+
+### Sistema Bancário em Java
+
+Projeto acadêmico desenvolvido para praticar Programação Orientada a Objetos, com funcionalidades como:
+
+- Cadastro de clientes e contas.
+- Depósitos e saques.
+- Transferências entre contas.
+- Consulta de saldos e extratos.
+- Validação de operações.
+
+🔗 [Sistema Bancário em Java](https://github.com/pfrazao1/sistema-bancario-java)
+
+## 🎯 Objetivo profissional
+
+Busco uma oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos, aprender com profissionais da área e evoluir como desenvolvedor.
 
 ---
 
-Estou em constante aprendizado e buscando evoluir na área de desenvolvimento de software.
+*Em constante aprendizado, construindo projetos e desenvolvendo minhas habilidades em tecnologia.*
